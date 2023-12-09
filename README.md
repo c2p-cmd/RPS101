@@ -9,5 +9,5 @@ This is my SwiftUI implementation for the game RPS 101.
 
 ### Screenshots:
 
-![](https://github.com/c2p-cmd/RPS101/blob/main/Screenshots/ss1.png)
-![](https://github.com/c2p-cmd/RPS101/blob/main/Screenshots/ss2.png)
+<img src="https://github.com/c2p-cmd/RPS101/blob/main/Screenshots/ss1.png" height=500x>
+<img src="https://github.com/c2p-cmd/RPS101/blob/main/Screenshots/ss2.png" height=500x>
