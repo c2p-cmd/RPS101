@@ -3,9 +3,9 @@
 
 ![](https://img.shields.io/badge/swiftui-iOS17-pink?logo=swift)
 
-![RPS 101 Original Website](https://www.umop.com/rps101.htm)
+[RPS 101 Original Website](https://www.umop.com/rps101.htm)
 
-This is my swiftui implementation for the game RPS 101.
+This is my SwiftUI implementation for the game RPS 101.
 
 ### Screenshots:
 
