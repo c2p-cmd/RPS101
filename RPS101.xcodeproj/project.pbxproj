@@ -11,6 +11,115 @@
 		00D063DC2B205BA000F914F8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00D063DB2B205BA000F914F8 /* ContentView.swift */; };
 		00D063DE2B205BA100F914F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00D063DD2B205BA100F914F8 /* Assets.xcassets */; };
 		00D063E12B205BA100F914F8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00D063E02B205BA100F914F8 /* Preview Assets.xcassets */; };
+		00D0644E2B205BDA00F914F8 /* Prince.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D063E92B205BDA00F914F8 /* Prince.json */; };
+		00D0644F2B205BDA00F914F8 /* Guitar.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D063EA2B205BDA00F914F8 /* Guitar.json */; };
+		00D064502B205BDA00F914F8 /* Gold.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D063EB2B205BDA00F914F8 /* Gold.json */; };
+		00D064512B205BDA00F914F8 /* Blood.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D063EC2B205BDA00F914F8 /* Blood.json */; };
+		00D064522B205BDA00F914F8 /* Medusa.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D063ED2B205BDA00F914F8 /* Medusa.json */; };
+		00D064532B205BDA00F914F8 /* Helicopter.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D063EE2B205BDA00F914F8 /* Helicopter.json */; };
+		00D064542B205BDA00F914F8 /* Rain.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D063EF2B205BDA00F914F8 /* Rain.json */; };
+		00D064552B205BDA00F914F8 /* Car.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D063F02B205BDA00F914F8 /* Car.json */; };
+		00D064562B205BDA00F914F8 /* Dragon.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D063F12B205BDA00F914F8 /* Dragon.json */; };
+		00D064572B205BDA00F914F8 /* Law.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D063F22B205BDA00F914F8 /* Law.json */; };
+		00D064582B205BDA00F914F8 /* Camera.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D063F32B205BDA00F914F8 /* Camera.json */; };
+		00D064592B205BDA00F914F8 /* Math.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D063F42B205BDA00F914F8 /* Math.json */; };
+		00D0645A2B205BDA00F914F8 /* Grass.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D063F52B205BDA00F914F8 /* Grass.json */; };
+		00D0645B2B205BDA00F914F8 /* Satan.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D063F62B205BDA00F914F8 /* Satan.json */; };
+		00D0645C2B205BDA00F914F8 /* Brain.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D063F72B205BDA00F914F8 /* Brain.json */; };
+		00D0645D2B205BDA00F914F8 /* Rainbow.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D063F82B205BDA00F914F8 /* Rainbow.json */; };
+		00D0645E2B205BDA00F914F8 /* Fire.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D063F92B205BDA00F914F8 /* Fire.json */; };
+		00D0645F2B205BDA00F914F8 /* Chainsaw.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D063FA2B205BDA00F914F8 /* Chainsaw.json */; };
+		00D064602B205BDA00F914F8 /* Duck.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D063FB2B205BDA00F914F8 /* Duck.json */; };
+		00D064612B205BDA00F914F8 /* Noise.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D063FC2B205BDA00F914F8 /* Noise.json */; };
+		00D064622B205BDA00F914F8 /* Power.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D063FD2B205BDA00F914F8 /* Power.json */; };
+		00D064632B205BDA00F914F8 /* Wolf.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D063FE2B205BDA00F914F8 /* Wolf.json */; };
+		00D064642B205BDA00F914F8 /* Cage.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D063FF2B205BDA00F914F8 /* Cage.json */; };
+		00D064652B205BDA00F914F8 /* Devil.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064002B205BDA00F914F8 /* Devil.json */; };
+		00D064662B205BDA00F914F8 /* Dynamite.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064012B205BDA00F914F8 /* Dynamite.json */; };
+		00D064672B205BDA00F914F8 /* Moon.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064022B205BDA00F914F8 /* Moon.json */; };
+		00D064682B205BDA00F914F8 /* Cat.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064032B205BDA00F914F8 /* Cat.json */; };
+		00D064692B205BDA00F914F8 /* Porcupine.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064042B205BDA00F914F8 /* Porcupine.json */; };
+		00D0646A2B205BDA00F914F8 /* Pit.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064052B205BDA00F914F8 /* Pit.json */; };
+		00D0646B2B205BDA00F914F8 /* Fish.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064062B205BDA00F914F8 /* Fish.json */; };
+		00D0646C2B205BDA00F914F8 /* Wall.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064072B205BDA00F914F8 /* Wall.json */; };
+		00D0646D2B205BDA00F914F8 /* Laser.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064082B205BDA00F914F8 /* Laser.json */; };
+		00D0646E2B205BDA00F914F8 /* King.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064092B205BDA00F914F8 /* King.json */; };
+		00D0646F2B205BDA00F914F8 /* Death.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0640A2B205BDA00F914F8 /* Death.json */; };
+		00D064702B205BDA00F914F8 /* Cloud.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0640B2B205BDA00F914F8 /* Cloud.json */; };
+		00D064712B205BDA00F914F8 /* Sword.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0640C2B205BDA00F914F8 /* Sword.json */; };
+		00D064722B205BDA00F914F8 /* Castle.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0640D2B205BDA00F914F8 /* Castle.json */; };
+		00D064732B205BDA00F914F8 /* Money.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0640E2B205BDA00F914F8 /* Money.json */; };
+		00D064742B205BDA00F914F8 /* Quicksand.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0640F2B205BDA00F914F8 /* Quicksand.json */; };
+		00D064752B205BDA00F914F8 /* Rock.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064102B205BDA00F914F8 /* Rock.json */; };
+		00D064762B205BDA00F914F8 /* Book.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064112B205BDA00F914F8 /* Book.json */; };
+		00D064772B205BDA00F914F8 /* Vulture.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064122B205BDA00F914F8 /* Vulture.json */; };
+		00D064782B205BDA00F914F8 /* Cockroach.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064132B205BDA00F914F8 /* Cockroach.json */; };
+		00D064792B205BDA00F914F8 /* Prayer.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064142B205BDA00F914F8 /* Prayer.json */; };
+		00D0647A2B205BDA00F914F8 /* Tank.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064152B205BDA00F914F8 /* Tank.json */; };
+		00D0647B2B205BDA00F914F8 /* Nuke.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064162B205BDA00F914F8 /* Nuke.json */; };
+		00D0647C2B205BDA00F914F8 /* Cup.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064172B205BDA00F914F8 /* Cup.json */; };
+		00D0647D2B205BDA00F914F8 /* Queen.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064182B205BDA00F914F8 /* Queen.json */; };
+		00D0647E2B205BDA00F914F8 /* Whip.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064192B205BDA00F914F8 /* Whip.json */; };
+		00D0647F2B205BDA00F914F8 /* Gun.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0641A2B205BDA00F914F8 /* Gun.json */; };
+		00D064802B205BDA00F914F8 /* Paper.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0641B2B205BDA00F914F8 /* Paper.json */; };
+		00D064812B205BDA00F914F8 /* Sun.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0641C2B205BDA00F914F8 /* Sun.json */; };
+		00D064822B205BDA00F914F8 /* Bowl.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0641D2B205BDA00F914F8 /* Bowl.json */; };
+		00D064832B205BDA00F914F8 /* Water.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0641E2B205BDA00F914F8 /* Water.json */; };
+		00D064842B205BDA00F914F8 /* Alien.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0641F2B205BDA00F914F8 /* Alien.json */; };
+		00D064852B205BDA00F914F8 /* Vampire.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064202B205BDA00F914F8 /* Vampire.json */; };
+		00D064862B205BDA00F914F8 /* Monkey.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064212B205BDA00F914F8 /* Monkey.json */; };
+		00D064872B205BDA00F914F8 /* Diamond.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064222B205BDA00F914F8 /* Diamond.json */; };
+		00D064882B205BDA00F914F8 /* Computer.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064232B205BDA00F914F8 /* Computer.json */; };
+		00D064892B205BDA00F914F8 /* Chain.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064242B205BDA00F914F8 /* Chain.json */; };
+		00D0648A2B205BDA00F914F8 /* Platimum.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064252B205BDA00F914F8 /* Platimum.json */; };
+		00D0648B2B205BDA00F914F8 /* Fence.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064262B205BDA00F914F8 /* Fence.json */; };
+		00D0648C2B205BDA00F914F8 /* Video Game.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064272B205BDA00F914F8 /* Video Game.json */; };
+		00D0648D2B205BDA00F914F8 /* Church.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064282B205BDA00F914F8 /* Church.json */; };
+		00D0648E2B205BDA00F914F8 /* Robot.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064292B205BDA00F914F8 /* Robot.json */; };
+		00D0648F2B205BDA00F914F8 /* Turnip.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0642A2B205BDA00F914F8 /* Turnip.json */; };
+		00D064902B205BDA00F914F8 /* Man.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0642B2B205BDA00F914F8 /* Man.json */; };
+		00D064912B205BDA00F914F8 /* Lightning.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0642C2B205BDA00F914F8 /* Lightning.json */; };
+		00D064922B205BDA00F914F8 /* Electricity.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0642D2B205BDA00F914F8 /* Electricity.json */; };
+		00D064932B205BDA00F914F8 /* Snake.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0642E2B205BDA00F914F8 /* Snake.json */; };
+		00D064942B205BDA00F914F8 /* Baby.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0642F2B205BDA00F914F8 /* Baby.json */; };
+		00D064952B205BDA00F914F8 /* Peace.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064302B205BDA00F914F8 /* Peace.json */; };
+		00D064962B205BDA00F914F8 /* Planet.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064312B205BDA00F914F8 /* Planet.json */; };
+		00D064972B205BDA00F914F8 /* Toilet.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064322B205BDA00F914F8 /* Toilet.json */; };
+		00D064982B205BDA00F914F8 /* Scissors.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064332B205BDA00F914F8 /* Scissors.json */; };
+		00D064992B205BDA00F914F8 /* Train.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064342B205BDA00F914F8 /* Train.json */; };
+		00D0649A2B205BDA00F914F8 /* T.V..json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064352B205BDA00F914F8 /* T.V..json */; };
+		00D0649B2B205BDA00F914F8 /* Police.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064362B205BDA00F914F8 /* Police.json */; };
+		00D0649C2B205BDA00F914F8 /* Mountain.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064372B205BDA00F914F8 /* Mountain.json */; };
+		00D0649D2B205BDA00F914F8 /* Heart.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064382B205BDA00F914F8 /* Heart.json */; };
+		00D0649E2B205BDA00F914F8 /* Bird.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064392B205BDA00F914F8 /* Bird.json */; };
+		00D0649F2B205BDA00F914F8 /* Beer.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0643A2B205BDA00F914F8 /* Beer.json */; };
+		00D064A02B205BDA00F914F8 /* Spider.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0643B2B205BDA00F914F8 /* Spider.json */; };
+		00D064A12B205BDA00F914F8 /* Cross.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0643C2B205BDA00F914F8 /* Cross.json */; };
+		00D064A22B205BDA00F914F8 /* Airplane.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0643D2B205BDA00F914F8 /* Airplane.json */; };
+		00D064A32B205BDA00F914F8 /* Film.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0643E2B205BDA00F914F8 /* Film.json */; };
+		00D064A42B205BDA00F914F8 /* Sky.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0643F2B205BDA00F914F8 /* Sky.json */; };
+		00D064A52B205BDA00F914F8 /* School.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064402B205BDA00F914F8 /* School.json */; };
+		00D064A62B205BDA00F914F8 /* Tornado.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064412B205BDA00F914F8 /* Tornado.json */; };
+		00D064A72B205BDA00F914F8 /* Home.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064422B205BDA00F914F8 /* Home.json */; };
+		00D064A82B205BDA00F914F8 /* Woman.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064432B205BDA00F914F8 /* Woman.json */; };
+		00D064A92B205BDA00F914F8 /* Community.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064442B205BDA00F914F8 /* Community.json */; };
+		00D064AA2B205BDA00F914F8 /* Air.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064452B205BDA00F914F8 /* Air.json */; };
+		00D064AB2B205BDA00F914F8 /* U.F.O..json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064462B205BDA00F914F8 /* U.F.O..json */; };
+		00D064AC2B205BDA00F914F8 /* Sponge.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064472B205BDA00F914F8 /* Sponge.json */; };
+		00D064AD2B205BDA00F914F8 /* Poison.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064482B205BDA00F914F8 /* Poison.json */; };
+		00D064AE2B205BDA00F914F8 /* Tree.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D064492B205BDA00F914F8 /* Tree.json */; };
+		00D064AF2B205BDA00F914F8 /* Bicycle.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0644A2B205BDA00F914F8 /* Bicycle.json */; };
+		00D064B02B205BDA00F914F8 /* Butter.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0644B2B205BDA00F914F8 /* Butter.json */; };
+		00D064B12B205BDA00F914F8 /* Axe.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0644C2B205BDA00F914F8 /* Axe.json */; };
+		00D064B22B205BDA00F914F8 /* Princess.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D0644D2B205BDA00F914F8 /* Princess.json */; };
+		00D064B42B205C0600F914F8 /* GameModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00D064B32B205C0600F914F8 /* GameModel.swift */; };
+		00EB4B572B24541400FDD30C /* FileService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00EB4B562B24541400FDD30C /* FileService.swift */; };
+		00EB4B592B24617200FDD30C /* AllObjectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00EB4B582B24617200FDD30C /* AllObjectsView.swift */; };
+		00EB4B5C2B24785600FDD30C /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00EB4B5B2B24785600FDD30C /* Utils.swift */; };
+		00EB4B5E2B247C1200FDD30C /* GameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00EB4B5D2B247C1200FDD30C /* GameView.swift */; };
+		00EB4B602B24899100FDD30C /* ConfettiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00EB4B5F2B24899100FDD30C /* ConfettiView.swift */; };
+		00EB4B622B2491B200FDD30C /* ObjectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00EB4B612B2491B200FDD30C /* ObjectView.swift */; };
+		00EB4B642B24952800FDD30C /* CuteMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00EB4B632B24952800FDD30C /* CuteMapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +128,115 @@
 		00D063DB2B205BA000F914F8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		00D063DD2B205BA100F914F8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		00D063E02B205BA100F914F8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		00D063E92B205BDA00F914F8 /* Prince.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Prince.json; sourceTree = "<group>"; };
+		00D063EA2B205BDA00F914F8 /* Guitar.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Guitar.json; sourceTree = "<group>"; };
+		00D063EB2B205BDA00F914F8 /* Gold.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Gold.json; sourceTree = "<group>"; };
+		00D063EC2B205BDA00F914F8 /* Blood.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Blood.json; sourceTree = "<group>"; };
+		00D063ED2B205BDA00F914F8 /* Medusa.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Medusa.json; sourceTree = "<group>"; };
+		00D063EE2B205BDA00F914F8 /* Helicopter.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Helicopter.json; sourceTree = "<group>"; };
+		00D063EF2B205BDA00F914F8 /* Rain.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Rain.json; sourceTree = "<group>"; };
+		00D063F02B205BDA00F914F8 /* Car.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Car.json; sourceTree = "<group>"; };
+		00D063F12B205BDA00F914F8 /* Dragon.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Dragon.json; sourceTree = "<group>"; };
+		00D063F22B205BDA00F914F8 /* Law.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Law.json; sourceTree = "<group>"; };
+		00D063F32B205BDA00F914F8 /* Camera.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Camera.json; sourceTree = "<group>"; };
+		00D063F42B205BDA00F914F8 /* Math.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Math.json; sourceTree = "<group>"; };
+		00D063F52B205BDA00F914F8 /* Grass.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Grass.json; sourceTree = "<group>"; };
+		00D063F62B205BDA00F914F8 /* Satan.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Satan.json; sourceTree = "<group>"; };
+		00D063F72B205BDA00F914F8 /* Brain.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Brain.json; sourceTree = "<group>"; };
+		00D063F82B205BDA00F914F8 /* Rainbow.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Rainbow.json; sourceTree = "<group>"; };
+		00D063F92B205BDA00F914F8 /* Fire.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Fire.json; sourceTree = "<group>"; };
+		00D063FA2B205BDA00F914F8 /* Chainsaw.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Chainsaw.json; sourceTree = "<group>"; };
+		00D063FB2B205BDA00F914F8 /* Duck.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Duck.json; sourceTree = "<group>"; };
+		00D063FC2B205BDA00F914F8 /* Noise.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Noise.json; sourceTree = "<group>"; };
+		00D063FD2B205BDA00F914F8 /* Power.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Power.json; sourceTree = "<group>"; };
+		00D063FE2B205BDA00F914F8 /* Wolf.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Wolf.json; sourceTree = "<group>"; };
+		00D063FF2B205BDA00F914F8 /* Cage.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Cage.json; sourceTree = "<group>"; };
+		00D064002B205BDA00F914F8 /* Devil.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Devil.json; sourceTree = "<group>"; };
+		00D064012B205BDA00F914F8 /* Dynamite.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Dynamite.json; sourceTree = "<group>"; };
+		00D064022B205BDA00F914F8 /* Moon.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Moon.json; sourceTree = "<group>"; };
+		00D064032B205BDA00F914F8 /* Cat.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Cat.json; sourceTree = "<group>"; };
+		00D064042B205BDA00F914F8 /* Porcupine.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Porcupine.json; sourceTree = "<group>"; };
+		00D064052B205BDA00F914F8 /* Pit.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Pit.json; sourceTree = "<group>"; };
+		00D064062B205BDA00F914F8 /* Fish.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Fish.json; sourceTree = "<group>"; };
+		00D064072B205BDA00F914F8 /* Wall.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Wall.json; sourceTree = "<group>"; };
+		00D064082B205BDA00F914F8 /* Laser.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Laser.json; sourceTree = "<group>"; };
+		00D064092B205BDA00F914F8 /* King.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = King.json; sourceTree = "<group>"; };
+		00D0640A2B205BDA00F914F8 /* Death.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Death.json; sourceTree = "<group>"; };
+		00D0640B2B205BDA00F914F8 /* Cloud.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Cloud.json; sourceTree = "<group>"; };
+		00D0640C2B205BDA00F914F8 /* Sword.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Sword.json; sourceTree = "<group>"; };
+		00D0640D2B205BDA00F914F8 /* Castle.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Castle.json; sourceTree = "<group>"; };
+		00D0640E2B205BDA00F914F8 /* Money.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Money.json; sourceTree = "<group>"; };
+		00D0640F2B205BDA00F914F8 /* Quicksand.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Quicksand.json; sourceTree = "<group>"; };
+		00D064102B205BDA00F914F8 /* Rock.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Rock.json; sourceTree = "<group>"; };
+		00D064112B205BDA00F914F8 /* Book.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Book.json; sourceTree = "<group>"; };
+		00D064122B205BDA00F914F8 /* Vulture.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Vulture.json; sourceTree = "<group>"; };
+		00D064132B205BDA00F914F8 /* Cockroach.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Cockroach.json; sourceTree = "<group>"; };
+		00D064142B205BDA00F914F8 /* Prayer.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Prayer.json; sourceTree = "<group>"; };
+		00D064152B205BDA00F914F8 /* Tank.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Tank.json; sourceTree = "<group>"; };
+		00D064162B205BDA00F914F8 /* Nuke.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Nuke.json; sourceTree = "<group>"; };
+		00D064172B205BDA00F914F8 /* Cup.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Cup.json; sourceTree = "<group>"; };
+		00D064182B205BDA00F914F8 /* Queen.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Queen.json; sourceTree = "<group>"; };
+		00D064192B205BDA00F914F8 /* Whip.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Whip.json; sourceTree = "<group>"; };
+		00D0641A2B205BDA00F914F8 /* Gun.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Gun.json; sourceTree = "<group>"; };
+		00D0641B2B205BDA00F914F8 /* Paper.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Paper.json; sourceTree = "<group>"; };
+		00D0641C2B205BDA00F914F8 /* Sun.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Sun.json; sourceTree = "<group>"; };
+		00D0641D2B205BDA00F914F8 /* Bowl.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Bowl.json; sourceTree = "<group>"; };
+		00D0641E2B205BDA00F914F8 /* Water.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Water.json; sourceTree = "<group>"; };
+		00D0641F2B205BDA00F914F8 /* Alien.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Alien.json; sourceTree = "<group>"; };
+		00D064202B205BDA00F914F8 /* Vampire.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Vampire.json; sourceTree = "<group>"; };
+		00D064212B205BDA00F914F8 /* Monkey.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Monkey.json; sourceTree = "<group>"; };
+		00D064222B205BDA00F914F8 /* Diamond.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Diamond.json; sourceTree = "<group>"; };
+		00D064232B205BDA00F914F8 /* Computer.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Computer.json; sourceTree = "<group>"; };
+		00D064242B205BDA00F914F8 /* Chain.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Chain.json; sourceTree = "<group>"; };
+		00D064252B205BDA00F914F8 /* Platimum.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Platimum.json; sourceTree = "<group>"; };
+		00D064262B205BDA00F914F8 /* Fence.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Fence.json; sourceTree = "<group>"; };
+		00D064272B205BDA00F914F8 /* Video Game.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Video Game.json"; sourceTree = "<group>"; };
+		00D064282B205BDA00F914F8 /* Church.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Church.json; sourceTree = "<group>"; };
+		00D064292B205BDA00F914F8 /* Robot.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Robot.json; sourceTree = "<group>"; };
+		00D0642A2B205BDA00F914F8 /* Turnip.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Turnip.json; sourceTree = "<group>"; };
+		00D0642B2B205BDA00F914F8 /* Man.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Man.json; sourceTree = "<group>"; };
+		00D0642C2B205BDA00F914F8 /* Lightning.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lightning.json; sourceTree = "<group>"; };
+		00D0642D2B205BDA00F914F8 /* Electricity.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Electricity.json; sourceTree = "<group>"; };
+		00D0642E2B205BDA00F914F8 /* Snake.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Snake.json; sourceTree = "<group>"; };
+		00D0642F2B205BDA00F914F8 /* Baby.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Baby.json; sourceTree = "<group>"; };
+		00D064302B205BDA00F914F8 /* Peace.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Peace.json; sourceTree = "<group>"; };
+		00D064312B205BDA00F914F8 /* Planet.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Planet.json; sourceTree = "<group>"; };
+		00D064322B205BDA00F914F8 /* Toilet.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Toilet.json; sourceTree = "<group>"; };
+		00D064332B205BDA00F914F8 /* Scissors.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Scissors.json; sourceTree = "<group>"; };
+		00D064342B205BDA00F914F8 /* Train.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Train.json; sourceTree = "<group>"; };
+		00D064352B205BDA00F914F8 /* T.V..json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = T.V..json; sourceTree = "<group>"; };
+		00D064362B205BDA00F914F8 /* Police.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Police.json; sourceTree = "<group>"; };
+		00D064372B205BDA00F914F8 /* Mountain.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Mountain.json; sourceTree = "<group>"; };
+		00D064382B205BDA00F914F8 /* Heart.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Heart.json; sourceTree = "<group>"; };
+		00D064392B205BDA00F914F8 /* Bird.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Bird.json; sourceTree = "<group>"; };
+		00D0643A2B205BDA00F914F8 /* Beer.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Beer.json; sourceTree = "<group>"; };
+		00D0643B2B205BDA00F914F8 /* Spider.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Spider.json; sourceTree = "<group>"; };
+		00D0643C2B205BDA00F914F8 /* Cross.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Cross.json; sourceTree = "<group>"; };
+		00D0643D2B205BDA00F914F8 /* Airplane.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Airplane.json; sourceTree = "<group>"; };
+		00D0643E2B205BDA00F914F8 /* Film.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Film.json; sourceTree = "<group>"; };
+		00D0643F2B205BDA00F914F8 /* Sky.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Sky.json; sourceTree = "<group>"; };
+		00D064402B205BDA00F914F8 /* School.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = School.json; sourceTree = "<group>"; };
+		00D064412B205BDA00F914F8 /* Tornado.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Tornado.json; sourceTree = "<group>"; };
+		00D064422B205BDA00F914F8 /* Home.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Home.json; sourceTree = "<group>"; };
+		00D064432B205BDA00F914F8 /* Woman.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Woman.json; sourceTree = "<group>"; };
+		00D064442B205BDA00F914F8 /* Community.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Community.json; sourceTree = "<group>"; };
+		00D064452B205BDA00F914F8 /* Air.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Air.json; sourceTree = "<group>"; };
+		00D064462B205BDA00F914F8 /* U.F.O..json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = U.F.O..json; sourceTree = "<group>"; };
+		00D064472B205BDA00F914F8 /* Sponge.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Sponge.json; sourceTree = "<group>"; };
+		00D064482B205BDA00F914F8 /* Poison.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Poison.json; sourceTree = "<group>"; };
+		00D064492B205BDA00F914F8 /* Tree.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Tree.json; sourceTree = "<group>"; };
+		00D0644A2B205BDA00F914F8 /* Bicycle.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Bicycle.json; sourceTree = "<group>"; };
+		00D0644B2B205BDA00F914F8 /* Butter.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Butter.json; sourceTree = "<group>"; };
+		00D0644C2B205BDA00F914F8 /* Axe.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Axe.json; sourceTree = "<group>"; };
+		00D0644D2B205BDA00F914F8 /* Princess.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Princess.json; sourceTree = "<group>"; };
+		00D064B32B205C0600F914F8 /* GameModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameModel.swift; sourceTree = "<group>"; };
+		00EB4B562B24541400FDD30C /* FileService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileService.swift; sourceTree = "<group>"; };
+		00EB4B582B24617200FDD30C /* AllObjectsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllObjectsView.swift; sourceTree = "<group>"; };
+		00EB4B5B2B24785600FDD30C /* Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
+		00EB4B5D2B247C1200FDD30C /* GameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameView.swift; sourceTree = "<group>"; };
+		00EB4B5F2B24899100FDD30C /* ConfettiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfettiView.swift; sourceTree = "<group>"; };
+		00EB4B612B2491B200FDD30C /* ObjectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectView.swift; sourceTree = "<group>"; };
+		00EB4B632B24952800FDD30C /* CuteMapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CuteMapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +269,8 @@
 		00D063D82B205BA000F914F8 /* RPS101 */ = {
 			isa = PBXGroup;
 			children = (
+				00EB4B5A2B24784900FDD30C /* Screens */,
+				00D063E72B205BB000F914F8 /* Data */,
 				00D063D92B205BA000F914F8 /* RPS101App.swift */,
 				00D063DB2B205BA000F914F8 /* ContentView.swift */,
 				00D063DD2B205BA100F914F8 /* Assets.xcassets */,
@@ -65,6 +285,137 @@
 				00D063E02B205BA100F914F8 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		00D063E72B205BB000F914F8 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				00D063E82B205BDA00F914F8 /* jsons */,
+				00D064B32B205C0600F914F8 /* GameModel.swift */,
+				00EB4B562B24541400FDD30C /* FileService.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		00D063E82B205BDA00F914F8 /* jsons */ = {
+			isa = PBXGroup;
+			children = (
+				00D063E92B205BDA00F914F8 /* Prince.json */,
+				00D063EA2B205BDA00F914F8 /* Guitar.json */,
+				00D063EB2B205BDA00F914F8 /* Gold.json */,
+				00D063EC2B205BDA00F914F8 /* Blood.json */,
+				00D063ED2B205BDA00F914F8 /* Medusa.json */,
+				00D063EE2B205BDA00F914F8 /* Helicopter.json */,
+				00D063EF2B205BDA00F914F8 /* Rain.json */,
+				00D063F02B205BDA00F914F8 /* Car.json */,
+				00D063F12B205BDA00F914F8 /* Dragon.json */,
+				00D063F22B205BDA00F914F8 /* Law.json */,
+				00D063F32B205BDA00F914F8 /* Camera.json */,
+				00D063F42B205BDA00F914F8 /* Math.json */,
+				00D063F52B205BDA00F914F8 /* Grass.json */,
+				00D063F62B205BDA00F914F8 /* Satan.json */,
+				00D063F72B205BDA00F914F8 /* Brain.json */,
+				00D063F82B205BDA00F914F8 /* Rainbow.json */,
+				00D063F92B205BDA00F914F8 /* Fire.json */,
+				00D063FA2B205BDA00F914F8 /* Chainsaw.json */,
+				00D063FB2B205BDA00F914F8 /* Duck.json */,
+				00D063FC2B205BDA00F914F8 /* Noise.json */,
+				00D063FD2B205BDA00F914F8 /* Power.json */,
+				00D063FE2B205BDA00F914F8 /* Wolf.json */,
+				00D063FF2B205BDA00F914F8 /* Cage.json */,
+				00D064002B205BDA00F914F8 /* Devil.json */,
+				00D064012B205BDA00F914F8 /* Dynamite.json */,
+				00D064022B205BDA00F914F8 /* Moon.json */,
+				00D064032B205BDA00F914F8 /* Cat.json */,
+				00D064042B205BDA00F914F8 /* Porcupine.json */,
+				00D064052B205BDA00F914F8 /* Pit.json */,
+				00D064062B205BDA00F914F8 /* Fish.json */,
+				00D064072B205BDA00F914F8 /* Wall.json */,
+				00D064082B205BDA00F914F8 /* Laser.json */,
+				00D064092B205BDA00F914F8 /* King.json */,
+				00D0640A2B205BDA00F914F8 /* Death.json */,
+				00D0640B2B205BDA00F914F8 /* Cloud.json */,
+				00D0640C2B205BDA00F914F8 /* Sword.json */,
+				00D0640D2B205BDA00F914F8 /* Castle.json */,
+				00D0640E2B205BDA00F914F8 /* Money.json */,
+				00D0640F2B205BDA00F914F8 /* Quicksand.json */,
+				00D064102B205BDA00F914F8 /* Rock.json */,
+				00D064112B205BDA00F914F8 /* Book.json */,
+				00D064122B205BDA00F914F8 /* Vulture.json */,
+				00D064132B205BDA00F914F8 /* Cockroach.json */,
+				00D064142B205BDA00F914F8 /* Prayer.json */,
+				00D064152B205BDA00F914F8 /* Tank.json */,
+				00D064162B205BDA00F914F8 /* Nuke.json */,
+				00D064172B205BDA00F914F8 /* Cup.json */,
+				00D064182B205BDA00F914F8 /* Queen.json */,
+				00D064192B205BDA00F914F8 /* Whip.json */,
+				00D0641A2B205BDA00F914F8 /* Gun.json */,
+				00D0641B2B205BDA00F914F8 /* Paper.json */,
+				00D0641C2B205BDA00F914F8 /* Sun.json */,
+				00D0641D2B205BDA00F914F8 /* Bowl.json */,
+				00D0641E2B205BDA00F914F8 /* Water.json */,
+				00D0641F2B205BDA00F914F8 /* Alien.json */,
+				00D064202B205BDA00F914F8 /* Vampire.json */,
+				00D064212B205BDA00F914F8 /* Monkey.json */,
+				00D064222B205BDA00F914F8 /* Diamond.json */,
+				00D064232B205BDA00F914F8 /* Computer.json */,
+				00D064242B205BDA00F914F8 /* Chain.json */,
+				00D064252B205BDA00F914F8 /* Platimum.json */,
+				00D064262B205BDA00F914F8 /* Fence.json */,
+				00D064272B205BDA00F914F8 /* Video Game.json */,
+				00D064282B205BDA00F914F8 /* Church.json */,
+				00D064292B205BDA00F914F8 /* Robot.json */,
+				00D0642A2B205BDA00F914F8 /* Turnip.json */,
+				00D0642B2B205BDA00F914F8 /* Man.json */,
+				00D0642C2B205BDA00F914F8 /* Lightning.json */,
+				00D0642D2B205BDA00F914F8 /* Electricity.json */,
+				00D0642E2B205BDA00F914F8 /* Snake.json */,
+				00D0642F2B205BDA00F914F8 /* Baby.json */,
+				00D064302B205BDA00F914F8 /* Peace.json */,
+				00D064312B205BDA00F914F8 /* Planet.json */,
+				00D064322B205BDA00F914F8 /* Toilet.json */,
+				00D064332B205BDA00F914F8 /* Scissors.json */,
+				00D064342B205BDA00F914F8 /* Train.json */,
+				00D064352B205BDA00F914F8 /* T.V..json */,
+				00D064362B205BDA00F914F8 /* Police.json */,
+				00D064372B205BDA00F914F8 /* Mountain.json */,
+				00D064382B205BDA00F914F8 /* Heart.json */,
+				00D064392B205BDA00F914F8 /* Bird.json */,
+				00D0643A2B205BDA00F914F8 /* Beer.json */,
+				00D0643B2B205BDA00F914F8 /* Spider.json */,
+				00D0643C2B205BDA00F914F8 /* Cross.json */,
+				00D0643D2B205BDA00F914F8 /* Airplane.json */,
+				00D0643E2B205BDA00F914F8 /* Film.json */,
+				00D0643F2B205BDA00F914F8 /* Sky.json */,
+				00D064402B205BDA00F914F8 /* School.json */,
+				00D064412B205BDA00F914F8 /* Tornado.json */,
+				00D064422B205BDA00F914F8 /* Home.json */,
+				00D064432B205BDA00F914F8 /* Woman.json */,
+				00D064442B205BDA00F914F8 /* Community.json */,
+				00D064452B205BDA00F914F8 /* Air.json */,
+				00D064462B205BDA00F914F8 /* U.F.O..json */,
+				00D064472B205BDA00F914F8 /* Sponge.json */,
+				00D064482B205BDA00F914F8 /* Poison.json */,
+				00D064492B205BDA00F914F8 /* Tree.json */,
+				00D0644A2B205BDA00F914F8 /* Bicycle.json */,
+				00D0644B2B205BDA00F914F8 /* Butter.json */,
+				00D0644C2B205BDA00F914F8 /* Axe.json */,
+				00D0644D2B205BDA00F914F8 /* Princess.json */,
+			);
+			path = jsons;
+			sourceTree = "<group>";
+		};
+		00EB4B5A2B24784900FDD30C /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				00EB4B582B24617200FDD30C /* AllObjectsView.swift */,
+				00EB4B5B2B24785600FDD30C /* Utils.swift */,
+				00EB4B5D2B247C1200FDD30C /* GameView.swift */,
+				00EB4B632B24952800FDD30C /* CuteMapView.swift */,
+				00EB4B612B2491B200FDD30C /* ObjectView.swift */,
+				00EB4B5F2B24899100FDD30C /* ConfettiView.swift */,
+			);
+			path = Screens;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +476,109 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00D064B12B205BDA00F914F8 /* Axe.json in Resources */,
+				00D064572B205BDA00F914F8 /* Law.json in Resources */,
+				00D064AD2B205BDA00F914F8 /* Poison.json in Resources */,
+				00D064702B205BDA00F914F8 /* Cloud.json in Resources */,
+				00D064A62B205BDA00F914F8 /* Tornado.json in Resources */,
+				00D0649D2B205BDA00F914F8 /* Heart.json in Resources */,
+				00D064852B205BDA00F914F8 /* Vampire.json in Resources */,
+				00D064892B205BDA00F914F8 /* Chain.json in Resources */,
+				00D064A52B205BDA00F914F8 /* School.json in Resources */,
+				00D064AB2B205BDA00F914F8 /* U.F.O..json in Resources */,
+				00D0648C2B205BDA00F914F8 /* Video Game.json in Resources */,
+				00D0647D2B205BDA00F914F8 /* Queen.json in Resources */,
+				00D064792B205BDA00F914F8 /* Prayer.json in Resources */,
+				00D064A22B205BDA00F914F8 /* Airplane.json in Resources */,
+				00D064502B205BDA00F914F8 /* Gold.json in Resources */,
+				00D0647B2B205BDA00F914F8 /* Nuke.json in Resources */,
+				00D064A12B205BDA00F914F8 /* Cross.json in Resources */,
+				00D064942B205BDA00F914F8 /* Baby.json in Resources */,
+				00D064822B205BDA00F914F8 /* Bowl.json in Resources */,
+				00D064602B205BDA00F914F8 /* Duck.json in Resources */,
+				00D064782B205BDA00F914F8 /* Cockroach.json in Resources */,
+				00D064962B205BDA00F914F8 /* Planet.json in Resources */,
+				00D064B02B205BDA00F914F8 /* Butter.json in Resources */,
+				00D0646E2B205BDA00F914F8 /* King.json in Resources */,
+				00D064A82B205BDA00F914F8 /* Woman.json in Resources */,
 				00D063E12B205BA100F914F8 /* Preview Assets.xcassets in Resources */,
+				00D064592B205BDA00F914F8 /* Math.json in Resources */,
+				00D0645D2B205BDA00F914F8 /* Rainbow.json in Resources */,
+				00D0649F2B205BDA00F914F8 /* Beer.json in Resources */,
+				00D064742B205BDA00F914F8 /* Quicksand.json in Resources */,
+				00D064612B205BDA00F914F8 /* Noise.json in Resources */,
+				00D0645A2B205BDA00F914F8 /* Grass.json in Resources */,
+				00D064732B205BDA00F914F8 /* Money.json in Resources */,
+				00D064982B205BDA00F914F8 /* Scissors.json in Resources */,
+				00D0648B2B205BDA00F914F8 /* Fence.json in Resources */,
+				00D064722B205BDA00F914F8 /* Castle.json in Resources */,
+				00D064972B205BDA00F914F8 /* Toilet.json in Resources */,
+				00D0644E2B205BDA00F914F8 /* Prince.json in Resources */,
+				00D064812B205BDA00F914F8 /* Sun.json in Resources */,
+				00D0648A2B205BDA00F914F8 /* Platimum.json in Resources */,
+				00D0646D2B205BDA00F914F8 /* Laser.json in Resources */,
+				00D0649E2B205BDA00F914F8 /* Bird.json in Resources */,
+				00D0648D2B205BDA00F914F8 /* Church.json in Resources */,
+				00D064A02B205BDA00F914F8 /* Spider.json in Resources */,
+				00D064662B205BDA00F914F8 /* Dynamite.json in Resources */,
+				00D064992B205BDA00F914F8 /* Train.json in Resources */,
+				00D064932B205BDA00F914F8 /* Snake.json in Resources */,
+				00D064672B205BDA00F914F8 /* Moon.json in Resources */,
+				00D064AA2B205BDA00F914F8 /* Air.json in Resources */,
+				00D0645F2B205BDA00F914F8 /* Chainsaw.json in Resources */,
+				00D064902B205BDA00F914F8 /* Man.json in Resources */,
 				00D063DE2B205BA100F914F8 /* Assets.xcassets in Resources */,
+				00D064622B205BDA00F914F8 /* Power.json in Resources */,
+				00D064582B205BDA00F914F8 /* Camera.json in Resources */,
+				00D0649A2B205BDA00F914F8 /* T.V..json in Resources */,
+				00D0648F2B205BDA00F914F8 /* Turnip.json in Resources */,
+				00D0645E2B205BDA00F914F8 /* Fire.json in Resources */,
+				00D064642B205BDA00F914F8 /* Cage.json in Resources */,
+				00D064842B205BDA00F914F8 /* Alien.json in Resources */,
+				00D0649C2B205BDA00F914F8 /* Mountain.json in Resources */,
+				00D064762B205BDA00F914F8 /* Book.json in Resources */,
+				00D064AF2B205BDA00F914F8 /* Bicycle.json in Resources */,
+				00D064882B205BDA00F914F8 /* Computer.json in Resources */,
+				00D064552B205BDA00F914F8 /* Car.json in Resources */,
+				00D0646F2B205BDA00F914F8 /* Death.json in Resources */,
+				00D064652B205BDA00F914F8 /* Devil.json in Resources */,
+				00D064A32B205BDA00F914F8 /* Film.json in Resources */,
+				00D0645B2B205BDA00F914F8 /* Satan.json in Resources */,
+				00D064872B205BDA00F914F8 /* Diamond.json in Resources */,
+				00D064AC2B205BDA00F914F8 /* Sponge.json in Resources */,
+				00D0647A2B205BDA00F914F8 /* Tank.json in Resources */,
+				00D064512B205BDA00F914F8 /* Blood.json in Resources */,
+				00D064AE2B205BDA00F914F8 /* Tree.json in Resources */,
+				00D064752B205BDA00F914F8 /* Rock.json in Resources */,
+				00D064A42B205BDA00F914F8 /* Sky.json in Resources */,
+				00D0647C2B205BDA00F914F8 /* Cup.json in Resources */,
+				00D064B22B205BDA00F914F8 /* Princess.json in Resources */,
+				00D0646C2B205BDA00F914F8 /* Wall.json in Resources */,
+				00D064952B205BDA00F914F8 /* Peace.json in Resources */,
+				00D064772B205BDA00F914F8 /* Vulture.json in Resources */,
+				00D064802B205BDA00F914F8 /* Paper.json in Resources */,
+				00D064632B205BDA00F914F8 /* Wolf.json in Resources */,
+				00D0644F2B205BDA00F914F8 /* Guitar.json in Resources */,
+				00D064532B205BDA00F914F8 /* Helicopter.json in Resources */,
+				00D0649B2B205BDA00F914F8 /* Police.json in Resources */,
+				00D064682B205BDA00F914F8 /* Cat.json in Resources */,
+				00D0647E2B205BDA00F914F8 /* Whip.json in Resources */,
+				00D064692B205BDA00F914F8 /* Porcupine.json in Resources */,
+				00D064922B205BDA00F914F8 /* Electricity.json in Resources */,
+				00D064522B205BDA00F914F8 /* Medusa.json in Resources */,
+				00D064A92B205BDA00F914F8 /* Community.json in Resources */,
+				00D064862B205BDA00F914F8 /* Monkey.json in Resources */,
+				00D0646B2B205BDA00F914F8 /* Fish.json in Resources */,
+				00D064A72B205BDA00F914F8 /* Home.json in Resources */,
+				00D0648E2B205BDA00F914F8 /* Robot.json in Resources */,
+				00D0645C2B205BDA00F914F8 /* Brain.json in Resources */,
+				00D0646A2B205BDA00F914F8 /* Pit.json in Resources */,
+				00D064562B205BDA00F914F8 /* Dragon.json in Resources */,
+				00D064542B205BDA00F914F8 /* Rain.json in Resources */,
+				00D064832B205BDA00F914F8 /* Water.json in Resources */,
+				00D0647F2B205BDA00F914F8 /* Gun.json in Resources */,
+				00D064912B205BDA00F914F8 /* Lightning.json in Resources */,
+				00D064712B205BDA00F914F8 /* Sword.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,7 +590,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				00D063DC2B205BA000F914F8 /* ContentView.swift in Sources */,
+				00EB4B572B24541400FDD30C /* FileService.swift in Sources */,
 				00D063DA2B205BA000F914F8 /* RPS101App.swift in Sources */,
+				00D064B42B205C0600F914F8 /* GameModel.swift in Sources */,
+				00EB4B642B24952800FDD30C /* CuteMapView.swift in Sources */,
+				00EB4B602B24899100FDD30C /* ConfettiView.swift in Sources */,
+				00EB4B592B24617200FDD30C /* AllObjectsView.swift in Sources */,
+				00EB4B5C2B24785600FDD30C /* Utils.swift in Sources */,
+				00EB4B622B2491B200FDD30C /* ObjectView.swift in Sources */,
+				00EB4B5E2B247C1200FDD30C /* GameView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +735,7 @@
 				DEVELOPMENT_TEAM = VD4JPC3R94;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -304,6 +765,7 @@
 				DEVELOPMENT_TEAM = VD4JPC3R94;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
